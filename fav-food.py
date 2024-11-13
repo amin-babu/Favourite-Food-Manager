@@ -1,15 +1,4 @@
-# Favourite Foods Manager
-# 0. Exit
-# 1. add food
-# 2. remove food
-# 3. View favourite all foods
-# Choose an option
-# Thanks for using Favourite Foods Manager
-# Enter you favourite food name:
-# Enter a food name which you want to remove:
-# Your favourite foods:
-# Food List is empty or didn't added yet!
-# Invalid Choice!
+#Favourite Food Manager Project-2
 
 favourite_food = []
 
